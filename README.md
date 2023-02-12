@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 👯 Contate-me no email: Gabriel.filhagosa@ges.inatel.br
 
 ## Eai sou o Grabriel Guimaraes e atual mente estou estudando programação
+<div align="center">
+  <a href="https://github.com/GabrielGuimaraes12">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=luis-vilela1337&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuimaraes12&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   <a href="https://www.instagram.com/gabriel_guima12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/guimatw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
