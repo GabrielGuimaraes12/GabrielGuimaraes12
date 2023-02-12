@@ -6,7 +6,7 @@
 - 🌱 Estudando Python e Java
 - 👯 Contate-me no email: Gabriel.filhagosa@ges.inatel.br
 
-## Eai sou o Grabriel Guimaraes e atualmente estou estudando programação
+## Eai sou o Gabriel Guimaraes e atualmente estou estudando programação
 <div align="laft">
   <a href="https://github.com/GabrielGuimaraes12">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuimaraes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
