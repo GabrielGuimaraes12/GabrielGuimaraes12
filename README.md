@@ -2,10 +2,6 @@
 ## Seja Bem-vindo
 
 
-**GabrielGuimaraes12/GabrielGuimaraes12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Estou cursando engenharia de software no inatel
 - 🌱 Estudando Python e Java
 - 👯 Contate-me no email: Gabriel.filhagosa@ges.inatel.br
