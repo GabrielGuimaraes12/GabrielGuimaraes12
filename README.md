@@ -9,7 +9,7 @@
 ## Eai sou o Gabriel Guimaraes e atualmente estou estudando programação
 <div align="laft">
   <a href="https://github.com/GabrielGuimaraes12">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuimaraes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielGuimaraes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGuimaraes12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
