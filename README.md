@@ -8,8 +8,8 @@
 
 ## 📫 Contato
 
-[![Gmail]([https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gabriel.filhagosa@ges.inatel.br](https://mail.google.com/mail/u/0/#inbox))
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/gabriel-guimaraes-54970a250/))
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Gabriel.filhagosa@ges.inatel.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guimaraes-54970a250/)
 
 ---
 
